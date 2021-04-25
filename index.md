@@ -7,4 +7,3 @@
 [Kaggle Profile](https://www.kaggle.com/efehandanisman)
 
 
-Hello, I am a data scientist wrking at Garanti BBVA. Here I will be sharing my recent work and planning to write tutorials on issues that I stuck and lost time. So that I may help others to avoid the same troubles.
